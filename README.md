@@ -2,6 +2,17 @@
 
 Live Demo :- https://customer-churn-prediction-enterprise-edition.streamlit.app/
 
+
+#UI
+
+![Output](images/1.png)
+
+![Output](images/2.png)
+
+![Output](images/3.png)
+
+
+
 Decision Tree Regressor–powered SaaS retention intelligence platform with advanced CRM telemetry, revenue exposure simulation, and Monte Carlo cohort variance modeling.
 
 📊 Dataset Overview
